@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "web-app",
+  // wrangler.jsonc
+  "name": "icy-math-d9e9",
   "main": "worker.js",
   "compatibility_date": "2026-07-30",
   "compatibility_flags": ["nodejs_compat"],
